@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
 
+    <label for="mobile"><b>Enter mobile</b></label>
+    <input type="text" placeholder="Enter mobile no" name="mobile" id="mobile" required>
+    <br>
+
     <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
